@@ -105,7 +105,6 @@ npx vite
 
 ## 👩‍💻 Autores
 * [Pedro Henrique Cavalcante de Sousa](https://github.com/pedrocavati)
-* [Pedro Henrique Nunes de Freitas](https://github.com/henripredo40)
 * [Samantha Yumi Tanaka](https://github.com/ySamantha)
 * [Samuel Batista Rennó](https://github.com/SamuelBati)
 * [Vinicios Trindade Costa](https://github.com/Vinhicious)
